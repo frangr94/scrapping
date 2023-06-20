@@ -1,0 +1,13 @@
+scrapper:
+
+    - crear una lista de precios con varios productos, en vez de categorías: ingestables desde un csv/xlxs
+    - añadir tiendas a ese csv, de forma tal que el scrapper lea donde tiene que buscar ese producto
+
+
+airflow:
+    -automatizar la recoleccion de datos
+
+
+crear modelo de machine learning que permita:
+
+    - recomendar un precio -> ¿puedo subir o bajar mi precio de lista?
